@@ -18,11 +18,11 @@
 
 # Change the domain variable to the domain/subdomain for which you would like
 # an SSL Certificate
-DOMAIN="fms.isid.org"
+DOMAIN="fms.mycompany.com"
 
 # Change the contact email address to your real email address so that Let's Encrypt
 # can contact you if there are any problems #>
-EMAIL="drew.tenenholz@isid.org"
+EMAIL="myemail@mycompoany.com"
 
 # Enter the path to your FileMaker Server directory, ending in a slash 
 SERVER_PATH="/Library/FileMaker Server/"
